@@ -1,7 +1,7 @@
 /*
  * @Description:
  * @Date: 2021-08-27 16:00:36
- * @LastEditTime: 2022-09-05 12:38:57
+ * @LastEditTime: 2022-09-05 12:48:19
  * @FilePath: \webpack-teste:\learn\node\test\jsLearning\test.js
  */
 
@@ -19,9 +19,6 @@ var players = [
     age: "14",
   },
 ];
-
-
-
 
 
 Array.prototype.sx_forEach = function (callBack) {
