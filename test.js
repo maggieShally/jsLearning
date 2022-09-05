@@ -1,8 +1,8 @@
 /*
  * @Description:
  * @Date: 2021-08-27 16:00:36
- * @LastEditTime: 2022-09-05 14:16:38
- * @FilePath: \webpack-teste:\learn\node\test\jsLearning\test.js
+ * @LastEditTime: 2021-12-13 17:42:27
+ * @FilePath: \webpack-teste:\learn\node\sign\test.js
  */
 
 var players = [
@@ -16,12 +16,9 @@ var players = [
   },
   {
     name: "KK",
-    
     age: "14",
   },
 ];
-
-
 
 Array.prototype.sx_forEach = function (callBack) {
   for (let i = 0; i < this.length; i++) {
