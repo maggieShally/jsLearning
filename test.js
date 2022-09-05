@@ -1,7 +1,7 @@
 /*
  * @Description:
  * @Date: 2021-08-27 16:00:36
- * @LastEditTime: 2022-09-05 14:03:32
+ * @LastEditTime: 2022-09-05 14:16:38
  * @FilePath: \webpack-teste:\learn\node\test\jsLearning\test.js
  */
 
@@ -16,6 +16,7 @@ var players = [
   },
   {
     name: "KK",
+    
     age: "14",
   },
 ];
